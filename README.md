@@ -1,6 +1,6 @@
 ### Well hello there!
 
-There are new changes....
+There are new changes.... ok
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
